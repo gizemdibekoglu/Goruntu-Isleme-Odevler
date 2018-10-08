@@ -1,0 +1,14 @@
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\bin\Debug\gizem dibekoğlu.exe.config
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\bin\Debug\gizem dibekoğlu.exe
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\bin\Debug\gizem dibekoğlu.pdb
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem dibekoğlu.csprojResolveAssemblyReference.cache
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem_dibekoğlu.Form1.resources
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem_dibekoğlu.Form2.resources
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem_dibekoğlu.Properties.Resources.resources
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem dibekoğlu.csproj.GenerateResource.Cache
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem dibekoğlu.exe
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem dibekoğlu.pdb
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem_dibekoğlu.Form3.resources
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem_dibekoğlu.Form4.resources
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem_dibekoğlu.Form5.resources
+C:\Users\minel\Desktop\gizem dibekoğlu\gizem dibekoğlu\gizem dibekoğlu\obj\Debug\gizem_dibekoğlu.Form6.resources
